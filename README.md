@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Georgui Azel</h1>
+
+
+
+
+![](https://komarev.com/ghpvc/?Georgui716371=your-github-Georgui716371&color=green)
+
 <h3 align="center">I am currently studying Systems Engineering and Computer Science at the Technological University of Peru (UTP - VI cycle), I am a lover of technology and programming (Frontend - Backend), I have been learning many technologies as I develop professionally, I am very motivated to put them into practice my knowledge in the world of work.</h3>
 
 - 🌱 I’m currently learning **Node.js - Spring Boot**
