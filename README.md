@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Georgui Azel</h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Georgui716371&label=Profile%20views&color=green&style=flat" alt="Georgui716371" /> </p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Georgui716371&label=Profile%20views&color=green&style=flat" alt="Georgui716371" /> </div>
 
 
 <h3 align="center">I am currently studying Systems Engineering and Computer Science at the Technological University of Peru (UTP - VI cycle), I am a lover of technology and programming (Frontend - Backend), I have been learning many technologies as I develop professionally, I am very motivated to put them into practice my knowledge in the world of work.</h3>
