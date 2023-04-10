@@ -1,3 +1,4 @@
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <h1 align="center">Hi 👋, I'm Georgui Azel</h1>
 
 
