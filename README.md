@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://georgui-azel.netlify.app/](https://georgui-azel.netlify.app/)
 
-- 📫 How to reach me **azelps072del@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sandovalazel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandovalazel" height="30" width="40" /></a>
