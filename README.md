@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning *Node.js - Spring Boot - Angular*
 
-- 👨‍💻 All of my projects are available at [https://georgui-azel.netlify.app/](https://georgui-azel.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
