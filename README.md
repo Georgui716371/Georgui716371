@@ -5,7 +5,7 @@
 
 <h3 align="center"> I am currently studying Systems Engineering and Computer Science at the Technological University of Peru (UTP - VII cycle), I am a lover of technology and programming (Frontend - Backend), I have been learning many technologies as I develop professionally, I am very motivated to put them into practice my knowledge in the world of work. </h3>
 
-- 🌱 I’m currently learning *Node.js - Spring Boot - Angular*
+- 🌱 I’m currently learning *DevOps - Spring Boot - Angular*
 
 
 <h3 align="left">Connect with me:</h3>
